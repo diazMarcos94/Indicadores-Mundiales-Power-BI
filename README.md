@@ -9,7 +9,12 @@ Se busca realizar una integración de las fuentes de datos proporcionadas que no
 Se analizara por las siguientes categorías:
 
 -Grupos de Continentes
+
 -Grupos de Población (De mayor a menor cantidad de poblacion)
+
 -Grupos de Esperanza de vida (De mayor a menor Esperanza de vida)
+
 -Grupos de Mortalidad Infantil (De mayor a menor Mortalidad Infantil)
+
 -Relacion entre Esperanza de vida y Mortalidad Infantil
+
